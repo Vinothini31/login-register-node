@@ -15,3 +15,5 @@ This is a simple and stylish login/register system using Node.js, Express, and M
 - Database: MongoDB (via Mongoose)
 
 ## 📂 Folder Structure
+/client    -> frontend
+/server    -> backend (Express + Node.js)
